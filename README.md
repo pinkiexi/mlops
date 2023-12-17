@@ -1,1 +1,1 @@
-# mlops_How_to receive_a_loan_from_a_bank
+# Mlops_How_to receive_a_loan_from_a_bank
