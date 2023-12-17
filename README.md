@@ -1,1 +1,1 @@
-# mlops_credit_card_fraud_detection
+# mlops_How_to receive_a_loan_from_a_bank
